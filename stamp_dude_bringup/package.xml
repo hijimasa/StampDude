@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package format="2">
+<package format="3">
   <name>stamp_dude_bringup</name>
   <version>0.0.1</version>
   <description>Launch files for the StampDude package.</description>
