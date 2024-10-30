@@ -1,0 +1,1 @@
+#include "stamp_dude/stamp_converter.hpp"
