@@ -7,6 +7,10 @@
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
-  <exec_depend>stamp_dude</exec_depend>
+  <exec_depend>stamp_dude_node</exec_depend>
   <exec_depend>rclcpp_components</exec_depend>
+
+  <export>
+      <build_type>ament_cmake</build_type>
+  </export>
 </package>
